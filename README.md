@@ -2,8 +2,7 @@ My Cricket App
 
 Table of Contents
 ==================
-1)Introduction
-2)Technologies Used
+1)Introduction2)Technologies Used
 3)Features
 4)Setup Instructions
 5)Deployment Instructions
